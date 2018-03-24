@@ -1,0 +1,2 @@
+[alias]
+    l = log -8 --format='%C(yellow)%h%Creset  %C(cyan)%cr%Creset  %C(blue)%an%Creset\n%C(auto)%<(70,trunc)%s%Creset'
