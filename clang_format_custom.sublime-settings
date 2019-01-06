@@ -6,7 +6,8 @@
 "DerivePointerAlignment": false,
 "PointerAlignment": "Left",
 "SpaceAfterCStyleCast": true,
-"AllowShortFunctionsOnASingleLine": "Empty",
+"AllowShortFunctionsOnASingleLine": "All",
 "AllowShortIfStatementsOnASingleLine": true,
+"AllowShortLoopsOnASingleLine": true,
 "AlwaysBreakTemplateDeclarations": true
 }
